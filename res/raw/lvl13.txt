@@ -1,0 +1,238 @@
+20 216 744 9 12 25 147
+dddd               d
+dddd      dd       d
+d         dd       d
+d                  d
+d uu   d           d
+d uu dddd     s  uud
+d     ddd        uud
+d                  d
+d                  d
+d s   u u u   d    d
+d            ddd   d
+d            ddd   d
+d     c       d    d
+d ww   ddd         d
+d ww  dd dd      s d
+d    ddd dd   uu   d
+d   dddd      uu   d
+d                  d
+d                  d
+d             d    d
+d           dddd   d
+d           dddd   d
+d             d    d
+d  c               d
+d                c d
+d         s        d
+d u  u             d
+d   u u            d
+d v     ddd        d
+d  u u  ddd        d
+d  uu              d
+d      u  u        d
+d u             s  d
+d     u  v         d
+d s                d
+d                  d
+d     u      dd    d
+d          c dddd  d
+d  ddd         dd  d
+d  ddd             d
+d                  d
+d            uu    d
+d            uu    d
+d                  d
+d vv   c           d
+d vv         dd    d
+d           ddd    d
+d           ddd    d
+d                  d
+d     s            d
+d               s  d
+d dd       uu      d
+d dd       uu      d
+d                  d
+d                  d
+d     b            d
+d               c  d
+d                  d
+d    xx            d
+d    xx b          d
+d              u   d
+d                  d
+d  s       b       d
+d            u v u d
+d                  d
+d vv         b     d
+d vv   s dd    u   d
+d        dd        d
+d        dd        d
+d        dd  u v u d
+d  s  vv dd        d
+d     vv  d        d
+d         d    u   d
+d         dd       d
+d         dd       d
+d     s  ddd u v u d
+d        ddd       d
+d        ddd       d
+d        dd    u   d
+d                  d
+d                  d
+d   s              d
+d                  d
+d                  d
+d        uvvu      d
+d                  d
+d                  d
+d                  d
+d     b        b   d
+d                  d
+d                  d
+d                  d
+dd                 d
+ddd                d
+d dd               d
+d  ddd             d
+d    d           u d
+d    d     s     u d
+d    dd          u d
+d    dd          u d
+d     dd         u d
+d  s   dd          d
+d      dd          d
+d       dd         d
+d       dd         d
+d                  d
+d          v       d
+d               s  d
+d        u         d
+d                  d
+d      u           d
+d                  d
+d    u             d
+d                  d
+d           dd     d
+d           ddd    d
+d   u        ddd   d
+d  u u b      dddddd
+d   u          ddddd
+d                ddd
+d             u   dd
+d            u u   d
+d  s          u    d
+d                  d
+d                  d
+d u              c d
+d uu               d
+d uu  c     uu     d
+d uu        uu     d
+d uu               d
+d     ddd        b d
+d    dddd          d
+d    dddd          d
+d    dddd          d
+d    dddd     c    d
+d     ddd          d
+d              uu  d
+d              uu  d
+d  b               d
+d         c        d
+d                  d
+d               s  d
+d v  dd            d
+d v  ddd           d
+d    ddddd        dd
+d      ddd       ddd
+d               dddd
+d               dddd
+d    c          dddd
+d               dddd
+d                ddd
+dd               ddd
+dd    uuu         dd
+ddd          uuu  dd
+ddd          uuu   d
+dddd               d
+dddd               d
+dddd    c          d
+ddd                d
+ddd                d
+dd                 d
+dd                 d
+d                  d
+d                  d
+d        d   v     d
+d       ddd  u     d
+d       ddd  u     d
+d   s   ddd  u     d
+d       ddd  u     d
+d       ddd  u     d
+d        d   u     d
+d                  d
+d                  d
+d                  d
+d   v    d         d
+d   u   ddd        d
+d   u   ddd  s     d
+d   u   ddd        d
+d   u   ddd        d
+d   u   ddd        d
+d   u    d         d
+d                  d
+d                  d
+d                  d
+d   v    d         d
+d   u   ddd        d
+d   u   ddd  s     d
+d   u   ddd        d
+d   u   ddd        d
+d   u   ddd        d
+d        d         d
+d                  d
+d                  d
+d                  d
+d        d   v     d
+d       ddd  u     d
+d    s  ddd  u     d
+d       ddd  u     d
+d       ddd  u     d
+d       ddd  u     d
+d        d   u     d
+d                  d
+d                  d
+d  s     s      s  d
+d                  d
+d                  d
+d                  d
+d                  d
+d                  d
+ d       t        dd
+ dd              d  
+  ddd           dd  
+    dd         d    
+      dd     dd     
+       dd   dd      
+        dddd        
+6 12 45 
+3 23 45 
+11 37 135 
+7 44 45 
+6 55 45 
+16 56 180 
+8 59 45 
+11 62 45 
+13 65 180 
+6 88 90 
+15 88 90 
+6 117 90 
+7 117 90 
+17 125 135 
+6 127 45 
+17 130 135 
+14 134 180 
+3 138 90 
+10 139 0 
+5 148 0 
+8 157 0 

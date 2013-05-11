@@ -1,0 +1,130 @@
+51 113 328 8 8 8 104
+                   d         d                     
+                   d         d                     
+                  d          d                     
+                 d      uu   d                     
+                d       uu   d                     
+                d            d                     
+                d           d                      
+                d           d                      
+               d         c  d                      
+              d             d                      
+             d              d                      
+            d     uu        d                      
+           d   s  uu         d                     
+           d      uu          d                    
+           d            he     d                   
+           d           kof     d                   
+           d                b  d                   
+           d                   d                   
+          d                    d                   
+          d       hmme         d                   
+          d      h{{{{e  ww   d                    
+          d     h{{{{{f  ww   d                    
+          d     p{{{{n        d                    
+          d     go{{of       d                     
+          d  uu   gf        d                      
+         d   uu             d                      
+        d                  d                       
+       d                  d                        
+       d                  d                        
+       d                  d                        
+       d          b       d                        
+       d               s  d                        
+       d                  d                        
+        d                 d                        
+         d  s             d                        
+          d              d                         
+          d c           d                          
+          d             d                          
+          d         c  d                           
+           d           d                           
+            d         d                            
+             d       d                             
+             d      d                              
+              d     d                              
+              d b b d                              
+              d     d                              
+              d     d                              
+              d     d                              
+               d v d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d u d                               
+               d v d                               
+              d    dd                              
+            dd       dd                            
+           d     b     dd                          
+          d              d                         
+         d                d                        
+         d   uu            ddd                     
+        d    uu     s         d                    
+        d                      d                   
+       d                       d                   
+       d      s   uu           d                   
+       d   v      uu      d    d                   
+      d                   d     dddddddddddddddddd 
+      d                   dd       uuuvuuvvvvuuvwud
+      d                  d  d c    uuuvuuvvvvuuvwxd
+      d            s     d  d      uuuvuuvvvvuuvwud
+     d      s           d    d     ddddddddddddddd 
+     d                 d      d   d                
+     d                 d       ddd                 
+    d   c              d                           
+   d       uu  b      d                            
+   d      uuu        d                             
+  d       uu         d                             
+  d             ddddd                              
+ d             d                                   
+ d         c  d                                    
+d            d                                     
+d  hqi      d                                      
+d  juu     d                                       
+d   uuu   d                                        
+d    uu  d                                         
+d      b d                                         
+d        d                                         
+d c       d                                        
+d          d                                       
+ d     u    d                                      
+  d     u   d                                      
+  d      u   d                                     
+  d       u   ddd                                  
+   d             d                                 
+    d       b     d                                
+    d              d                               
+     d       s      d                              
+      d             d                              
+      d             d                              
+       d   uu    c  d                              
+        d  uu       d                              
+        d           d                              
+        d           d                              
+        d           d                              
+         d          d                              
+          d     t   d                              
+          d         d                              
+           d        d                              
+            d      d                               
+             dddddd                                
+25 8 180 
+28 16 235 
+18 30 135 
+12 36 315 
+20 38 180 
+16 44 90  
+18 44 90
+17 60 90 
+30 71 0 
+8 76 0 
+15 77 135  
+11 82 180 
+7 88 135 
+2 90 0 
+12 97 135 
+17 102 180

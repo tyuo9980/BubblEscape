@@ -1,0 +1,256 @@
+49 226 842 12 17 13 133
+              ddd    dd                          
+             ddd      dd                         
+            ddd        dd                        
+            dd         dd                        
+            d           d                        
+            d            d                       
+            d  u         d                       
+            d   u b      d                       
+            d    u       d                       
+            d     u     dd                       
+            d       u   d                        
+            d     c u   d                        
+            d       u   d                        
+           d        u  d                         
+          d         b  d                         
+          d             d                        
+          d       c     d                        
+          d   u          d                       
+          d   u     u    d                       
+          d   u  c  u    d                       
+          d   u     u    d                       
+          d   b     u    d                       
+          dd        b    d                       
+           d             dd                      
+           d              ddd                    
+            d                dddd                
+            d                    dd              
+             d                     dd            
+             d dd    u               dd          
+             d dd     u        uv      dd        
+             d         u        uv       dd      
+             d          u        uv       d      
+             d           u                 d     
+             d                             d     
+             d  vv                          d    
+             d  vv                          d    
+             d                              d    
+             d                               d   
+             d    s        c          s      d   
+             d                               d   
+             d                                d  
+             d                                dd 
+             d                                 d 
+             d                                 d 
+             d                     vv          d 
+             dd                    vv   dd     d 
+              d                         ddd  w  d
+              d          ddd            ddd     d
+              dd        dddd       b    dd      d
+               d        dddd                    d
+               d                                d
+               d                                d
+               dd                               d
+                d   c                           d
+                 d       u                      d
+                 d      uuu                 c  d 
+                  d      uuu                   d 
+                  d       u           s        d 
+                   d                          d  
+                   d                          d  
+                   d                          d  
+                  dd                   uu     d  
+                  d      dd            uu     d  
+                 dd      dd                   d  
+              ddd       ddd                   d  
+            dd          dd                    d  
+          dd           ddd          c         d  
+         dd            dd                     d  
+         d                                   d   
+        d      b                             d   
+        d              vv                    d   
+        d   x          vv                    d   
+        d                                    d   
+        d                        dddd       dd   
+        dd  u   dd    c         ddddddd     d    
+         d      ddd             ddd dddd    d    
+         d      ddd                  ddd    d    
+         d  u   dddd                 ddd    d    
+         d      dddd                        d    
+         d     dddd          s              d    
+         d  u  dddd                         d    
+         d      dd      uu                  d    
+         d      dd      uu                  d    
+        d   u                               d    
+        d                                   d    
+       dd                                  d     
+       d      u                            d     
+       d             s                     d     
+       d  dd     u                         d     
+      dd  dd                               d     
+      d dd                                 d     
+      dddd                          uu    d      
+      ddd                     dd    uu   d       
+      d                       ddd        d       
+      d                  b     dd        d       
+      d        c               ddd        d      
+      d  dd                     dd        d      
+      dd ddd                              d      
+       d  dd                              d      
+       d  ddd                    b        d      
+        d   dd      s                     dd     
+        d   dd                             d     
+         d  dd            uu               d     
+          d dd            uu              dd     
+          d dd            uu              d      
+          d  d                            d      
+          dd d                            d      
+           ddd                            d      
+            dd                   s        dd     
+             d         c                  dd     
+            dd                           d d     
+          ddd                            dddd    
+         d                  u           dd dd    
+         d                 u u         dddddd    
+         dd     s         u v u        ddddd     
+          d                u u         dd dd     
+         d                  u          dddd      
+        d  c                           dd        
+       dd                              ddd       
+      dd                                d        
+      d                                 d        
+     d                                 dd        
+     d                                dd         
+     d                               dd          
+    d  dd                   dd       d           
+   dd ddd                  dddd      dd          
+   ddddd    v              dddd       d          
+  d dddd   wv  dd           dd        d          
+ d   dd    v  dddd                    d          
+ d  ddd       dddd                    d          
+ d           dd     b                 d          
+d           dd                v       d          
+d           dd               vvv      d          
+d                             v      dd          
+d                                   d            
+ d c                                d            
+ d                      s          d             
+ d                                d              
+ d   uu                           d              
+ d   uu                    ddddddd               
+ d                        dd                     
+ d                        d                      
+ d        dd             dd                      
+d         ddd            d                       
+d         ddd        c   dd                      
+d         ddd             d                      
+d          dd             d                      
+d                         d                      
+d                         d                      
+dd                       dd                      
+ dd      u               d                       
+  dd      u              d                       
+   d       u             d                       
+   d        v           dd                       
+   d   dd    v          d                        
+   d   dd     b         d                        
+   d                   dd                        
+    d                  d                         
+    d                 d                          
+    dd               d                           
+     d              dd                           
+     ddd        u  dd                            
+       dd  c   u   d                             
+        d       u  d                             
+        d      u    d                            
+        d       u   dd                           
+        d      u     d                           
+        d  c    u     d                          
+        dd            d                          
+         d             dddddddd                  
+          d                   dd                 
+          dd       uuvvuu      d                 
+           dd                   d                
+            dddd                 dd              
+            ddddddddd             d              
+             ddddd dd             d              
+             ddd                  d              
+            dd                    d              
+           dd   w  b              d              
+           d                      d              
+          d                 s     d              
+         d                        d              
+        d                         d              
+        d    uuu                 dd              
+       d     uuu                 d               
+       d     uuu        c        d               
+       d                        d                
+       d                       d                 
+       d    b                 dd                 
+       d             dddd    d                   
+       d             dddd    d                   
+       d              dd     d                   
+       d                     d                   
+       d                     d                   
+        d    s              dd                   
+        dd                  d                    
+         d             c   d                     
+         d                 d                     
+       dd                 dd                     
+      dd                  d                      
+      d                   d                      
+      d                    d                     
+      d                    d                     
+      d       ddd          d                     
+    dd   v    dddd    vv   d                     
+    d          ddd    vv   d                     
+    d                      dd                    
+    d                       d                    
+   dd      s                dd                   
+   d v                       dd                  
+   d                         dd                  
+   d                          dd                 
+   d                   s       d                 
+   dd         uu               d                 
+    d         uu              dd                 
+    d                        dd                  
+    d                        d                   
+    dd                      d                    
+     d           t         d                     
+      dd                  d                      
+       dd                d                       
+        dddd            d                        
+           dd           d                        
+             dd        d                         
+              dd     dd                          
+                dddddd                           
+18 7 225 
+18 11 0 
+20 14 90 
+18 16 0 
+17 19 135 
+14 21 90 
+20 22 90 
+27 38 135 
+35 48 90 
+20 53 0 
+44 55 180 
+36 66 180 
+15 69 45 
+22 74 45 
+25 94 135 
+15 95 45 
+33 99 45 
+23 109 0 
+11 117 315 
+20 130 0 
+3 135 0 
+21 144 135 
+14 155 135 
+11 162 45 
+11 167 0 
+19 178 0 
+24 185 180 
+12 188 45 
+23 196 135 

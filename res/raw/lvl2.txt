@@ -1,0 +1,84 @@
+36 83 192 0 0 7 104
+       d                    d       
+      d                      d      
+     d                        d     
+    d                          d    
+   d                            d   
+  d                              d  
+ d                                d 
+d                y                 d
+d               yxy                d
+d                y                 d
+ds                                sd
+d                                  d
+d                                  d
+d                                  d
+d                s                 d
+d                                  d
+d                                  d
+d                                  d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u      s       u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d   u u u u              u u u u   d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                s                 d
+d                                  d
+d                                  d
+d               vvv                d
+d               vwv                d
+d               vvv                d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                                  d
+d                             u    d
+d  u      s                        d
+d                                  d
+d                                  d
+d  u                               d
+d                             u    d
+d                                  d
+d  u                               d
+d                                  d
+d                             u    d
+d                                  d
+d  u                               d
+d                                  d
+d                     s            d
+d                             u    d
+d  u                               d
+d                                  d
+d                                  d
+d                             u    d
+d                                  d
+d         dddddddddddddd           d
+d                                  d
+d                                  d
+ d                                d 
+  d                              d  
+   d                            d   
+    d            t             d    
+     d                        d     
+      d                      d      
+       d                    d       
+        d                  d        
+         d                d         
+          d              d          
+           mmmmmmmmmmmmmm           

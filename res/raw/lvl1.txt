@@ -1,0 +1,83 @@
+12 82 172 0 0 0 26
+n          p
+n          p
+n          p
+n          p
+n d      d p
+n          p
+n          p
+n          p
+n   d  d   p
+n          p
+n          p
+n          p
+n          p
+n d      d p
+n          p
+n          p
+n          p
+n   d  d   p
+n          p
+n          p
+n          p
+n          p
+n    uu    p
+n    uu    p
+n    uu    p
+n    uu    p
+n    uu    p
+n    uu    p
+n    uu    p
+n    uu    p
+n          p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     u    p
+n          p
+n          p
+n          p
+n     t    p
+n          p
+n          p
+n          p

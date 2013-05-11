@@ -1,0 +1,105 @@
+43 97 282 0 7 1 35
+he                                       he
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn       u                 cdd       u   pn
+pn       u                 ddd       u   pn
+pn       u                           u   pn
+pn       u                           u   pn
+pn                                   u   pn
+pn                                   u   pn
+pn                                   u   pn
+pn                                   u   pn
+pn    c        c              ddd    u   pn
+p{mmmme        d      s      dd      u   pn
+p{oooof       dd             d       u   pn
+pn             d             d           pn
+pn                         ddd           pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn       u        u          u           pn
+pn                                       pn
+pn       u        u          u           pn
+pn                                       pn
+pn       u        u          u           pn
+pn                                       pn
+pn       u        u          u           pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+pn                                       pn
+          c      dd         dd     c       
+         he       dd       d       he      
+          n       dd               p       
+           me      d             hm        
+            n      d             p         
+             me    d           hm          
+              n c            c p           
+               me            hm            
+                n            p             
+                 me   u    hm              
+                  n    u   p               
+                  n   u    p               
+                  n    u   p               
+                  n   u    p               
+                  n    u   p               
+                  n   u    p               
+                  n    u   p               
+                  n        p               
+                  n        p               
+                  n        p               
+                  n        p               
+                  n    t   p               
+                   mmmmmmmm                
+                                           
+                  ddddddddd                
+                 dd       dd               
+                dd         dd              
+              dddd          dddd           
+             dd                dd          
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+27 7 180 
+6 15 0 
+15 15 0 
+10 23 0 
+35 23 180 
+16 29 0 
+29 29 180 

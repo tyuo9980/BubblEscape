@@ -1,0 +1,138 @@
+78 102 684 12 23 15 127
+                     d          d                                             
+                     d          d                                             
+                     d           d                                            
+                      dd     uu  d                                            
+                        d c      d                                            
+                        d        d                                            
+                       d      s  d                                            
+                      d          d                                            
+                     d           d                                            
+                    d           d                                             
+                    d    l     d                                              
+                   d    hf    d            ddddd                              
+                   d    j s   d         ddd     dd                            
+                  d            ddddddddd    ww    dddddddddddddddddddddd      
+                  d   uu       uuuuu        ww                          d     
+                  d   uu       uuuuu    vv     b        vv            c d     
+                  d            uuuuu    vv           c  vv        uu    d     
+                   d         hmmmmme                                    d     
+                   d     kmmm{{{{{{{mmmme    c   hmmmmmmmmmmmmmmme      d     
+                    d     g{{{{{{{{{{{{{{mmmmmmmm{{{{{{{{{{{{{{{{{e  b  d     
+                     d     g{{{{{oooooo{{{{{{{{{{{{{{{{{ooooo{{{{{f      d    
+                     d    c gooof      gooooooooooooooof     gooof        d   
+                     d                     c                              d   
+                     d  b    uuu       uuuu      uuu          c       uuu  d  
+                     d       uuu c     uvvu       uu  c     vv        uuu  d  
+                      ddddd            uuuu  dd    u                       d  
+                          ddddddddd c       d  dd             dd           d  
+                                   ddddddddd    ddd         dddd           d  
+      ddddd                                        dddddddddd  d           d  
+     d     d                                                    dd          d 
+     d vv   dd                                                    d          d
+    d  vv     d                       ddddd                       d       c  d
+   d           ddddddd            dddd     dddddddd         ddd   d     b    d
+   d                  dd         d                 ddddddddd   ddd          d 
+   d              b     dddddddddd                                         d  
+   d                                          s                      uu    d  
+   d                  c                                              uu   d   
+   d                           hme     b                                  d   
+   d c    hme     uu   kmmmevvhoof                                       d    
+   d      g{n c   uu    go{{qqf                 uu                  s   d     
+   d       pn             gf                    uu                      d     
+   d       gf                               c       ddddddd            d      
+  d                 c     uuuu                    dd       dd         d       
+ d        s   ddddd        uuuu   dddddddddddddddd           ddddddddd        
+ d           d     dd            dd                                           
+d            d       dddddddddddd                                             
+d        uu  d                                                                
+d    c   uuu d          dddddddd                                              
+d         uu d        dd        d                                             
+d             dddddddd           dddd                                         
+d      he                            d                                        
+d      gome                          d                                        
+ dd      gf       s          s       d                                        
+   d ww                              d                                        
+   d ww s       b                    d                                        
+   d                                d                                         
+   d    c                           d                                         
+    ddd     b   s   s  dddd     u   d                                         
+       dd             d    d    u  d                                          
+         ddddddddddddd     d    u d                                           
+                           d s  u d                                           
+                           d    u d                                           
+                           d    u d                                           
+                          d        d                                          
+                          d         d                                         
+                          dc        d                                         
+                          d          d                                        
+                          d     b    d                                        
+                           d          dddddd                                  
+                            d               d                                 
+                            d                d                                
+                            d      c          d                               
+                            d           uuu    d                              
+                            d        s  uuu     d                             
+                           d                     d                            
+                          d      hme             d                            
+                         d       g{{e            d                            
+                         d   ww   gof    b       d                            
+                         d   ww                  d                            
+                          d                       d                           
+                           d                       d                          
+                            d       c          v    d                         
+                             d   s          he  v   d                         
+                              d            h{n   v  d                         
+                               d           p{{e   b d                         
+                               d        s  g{{f     d                         
+                                d c         gf      d                         
+                                d                  d                          
+                                d     uu           d                          
+                                d     uu        c  d                          
+                                d                  d                          
+                                d                  d                          
+                                d     b            d                          
+                                 d                d                           
+                                  d        t      d                           
+                                  d              d                            
+                                   d             d                            
+                                   d            d                             
+                                    d  s        d                             
+                                    d           d                             
+                                     dd       dd                              
+                                       ddddddd                                
+26 4 0 
+47 15 180 
+70 15 180
+53 16 180 
+45 18 90 
+69 19 135
+26 21 180 
+43 22 180 
+24 23 0 
+62 23 0
+33 24 180 
+54 24 180
+36 26 45 
+74 31 135
+72 32 90
+18 34 270 
+22 36 180 
+39 37 270 
+5 38 45 
+14 39 45 
+44 41 135 
+20 42 0 
+5 47 0 
+16 54 135 
+8 56 90 
+12 57 90 
+27 65 0 
+32 67 90 
+35 71 180 
+41 77 90 
+36 81 45 
+50 84 135 
+34 86 0 
+48 89 90 
+38 92 90 

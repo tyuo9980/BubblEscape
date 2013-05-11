@@ -1,0 +1,115 @@
+78 102 408 8 4 8 51
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n     uuuu     p                               
+                               n              p                               
+                               n              p                               
+                               n     uuuu     p                               
+                               n              p                               
+                               n     uuuu     p                               
+                               n              p                               
+                               n     uuuu     p                               
+                               n              p                               
+                               n     uuuu     p                               
+                               n              p                               
+                               f     uuuu     g                               
+                              f                g                              
+                             f                  g                             
+                            f                    g                            
+                           f    u  d      d  u    g                           
+                          f    u   d      d   u    g                          
+                         f    u   d        d   u    g                         
+                        f    u   d          d   u    g                        
+                       f    u   d            d   u    g                       
+                      f    u   d              d   u    g                      
+         oooooooooooof    u   d                d   u    goooooooooooo         
+        n                u   d                  d   u                p        
+        n                   d                    d                   p        
+ ooooooof                                                            gooooooo 
+n    b                                                                  b    p
+n   b                                           s              s         b   p
+n                                                                            p
+n b z           s          s                                             z b p
+nb                                                                          bp
+ me                                                                        hm 
+  n                                                                        p  
+   me                                                                    hm   
+    n                                                                    p    
+     me                                                                hm     
+      n                                         s              s       p      
+       me                                 c                 d        hm       
+        n                                 d        d   d    d        p        
+         me     s          s              d        d   d    d      hm         
+          n                               d        c        d      p          
+           me                                      d        d    hm           
+            n   d    d    d    d    d he           d        d    p            
+             me                       pn      d    d        d  hm             
+              n        w     w    w   pn      d    d           p              
+               me                     pn      d    d    d    hm               
+                n                     pn      d    d    d    p                
+                 me  d    d    d    d pn      d            hm                 
+                  n                   pn  d   d            p                  
+                   me  w     w    w   pn  c              hm                   
+                    n                 pn  d              p                    
+                     me               pn  d            hm                     
+                      n   d    d    d pn         d     p                      
+                       me             pn         d   hm                       
+                        n    w    w   pn         d   p                        
+                         me           pn           hm                         
+                          n           pn         c p                          
+                           me  d    d pn         hm                           
+                            n         pn    d    p                            
+                             me       pn    d  hm                             
+                              n   w   gf       p                              
+                               me            hm                               
+                                n            p                                
+                                 me        hm                                 
+                                  n        p                                  
+                                  n        p                                  
+                                  n        p                                  
+                                  n        p                                  
+                                  n        p                                  
+                                  n        p                                  
+                                  n        p                                  
+                                oof        goo                                
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                               n              p                               
+                                mmmme    hmmmm                                
+                                    n    p                                    
+                                    n    p                                    
+                                    n    p                                    
+                                    n    p                                    
+                                oooof    goooo                                
+                               n              p                               
+                               n              p                               
+                                me          hm                                
+                                 n          p                                 
+                                  me   t  hm                                  
+                                   n      p                                   
+                                    me  hm                                    
+                                     n  p                                     
+                                     n  p                                     
+5 37 315 
+72 37 225 
+4 38 315 
+73 38 225 
+2 40 0 
+75 40 180 
+1 41 0 
+76 41 180 
+42 48 0 
+51 51 180 
+42 60 0 
+49 67 180 

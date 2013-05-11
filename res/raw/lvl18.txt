@@ -1,0 +1,295 @@
+31 257 950 18 20 11 132
+d              d               
+d  vv      www d               
+d  uu          d               
+d              d               
+d              d               
+d            c d               
+d              d               
+d              d               
+d  s     u     d               
+d       u      d               
+d      u       d               
+d              d               
+d         c    d               
+d              d               
+d        hme   d               
+d  b    h{{{e  d               
+d       g{{{{i d               
+d        p{{f  d               
+d        p{n   d               
+d   u    gf    d               
+d    u         d               
+d     u        d               
+d      u       d               
+d              d               
+ d              d              
+  d       b      d             
+   d              d            
+    d              d           
+     d              d          
+      d       u     cd         
+     d       u      d          
+    d       u      d           
+   d       u      d            
+  d              d             
+ d              d              
+d       b      d               
+d              d               
+d              d               
+d      s       d               
+d              d               
+d              d               
+d        hmmm  d               
+d c      p{{{e d               
+d        p{{{n d               
+d    u   p{{{n d               
+d b   u  g{{{n d               
+d      u  goof d               
+d              d               
+d              d               
+d              d               
+d    c         d               
+d              d               
+d          u   d               
+d    he    u   d               
+d   h{{e   u   d               
+d  h{{{{e  u   d               
+d  p{{{{n      d               
+d  p{{{{n      d               
+d  p{{{{n      d               
+d  p{{{{n      d               
+d  g{{{{f      d               
+d   p{{f       d               
+d   gof        d               
+d              d               
+d              d               
+ d       u      d              
+  d       u      d             
+   d       u      d            
+    d       u      d           
+     d              d          
+      d              d         
+       d       b      d        
+        d             d        
+        d             d        
+        d             d        
+        d             d        
+        d  s       s  d        
+        d             d        
+        d             d        
+        d     uuu     d        
+        d     uuu     d        
+        d             d        
+        d             d        
+        d     c c     d        
+        d             d        
+        d             d        
+        d      l      d        
+        d     h{e     d        
+        d    h{{{e    d        
+        d v k{{{{{i u d        
+        d v  g{{{f  u d        
+        d v   g{f   u d        
+        d      j      d        
+       d               d       
+      d                 d      
+     d         b         d     
+    d                     d    
+   d c                  s  d   
+  d        uuuu     u       d  
+ d         uuuu      u       d 
+d     he              u       d
+d    h{{e                     d
+d   h{{{{e        c           d
+d   g{{{{f      he            d
+d    g{{f      h{{e  b    uuu d
+d     gf      h{{{{mme    uuu d
+d             p{{{{{{{e       d
+d             p{{{{{{{{e    s d
+d    s        p{{{{{{{{n      d
+d             p{{{{{{{{f      d
+d  uuu     u  p{{{{{{{f       d
+d  uuu    u   g{{{{{{f        d
+d        u     goooof         d
+d                             d
+d             c    c     uuu  d
+d                        uuu  d
+d           hmmmmme           d
+d   b      h{{{{{{{e          d
+d         h{{{{{{{{f          d
+ d        p{{{{{{{f          d 
+  d   u   g{{{{{{f       b  d  
+   d   u   goooof          d   
+    d   u                 d    
+     d                   d     
+      d              s  d      
+       d               d       
+       d               d       
+       d               d       
+       d      b        d       
+       d               d       
+       d         vv    d       
+       d uuu     vv    d       
+       d               d       
+       d               d       
+       d               d       
+       d  hme          d       
+       d  g{{e         d       
+       d   g{n        cd       
+       d    pn         d       
+       d   h{f         d       
+       d   gf     u    d       
+       d         u     d       
+       d        u      d       
+       d       u       d       
+       d               d       
+      d               d        
+     d      b        d         
+    d               d c        
+   d               d           
+  d   hme         d            
+ d   h{{{e       d             
+d   k{{{{n      d              
+d    g{{{n      d              
+d     goof      d              
+d            c  d              
+d               d              
+d               d              
+d   s     uuu   d              
+d         uuu   d              
+d  ww           d              
+d  ww           d              
+d               d              
+d               d              
+d             c d              
+d    he         d              
+d   h{n         d              
+d  h{{{e        d              
+d  p{{{{e      bd              
+d  p{{{{f       d              
+d  gooof        d              
+ d               d             
+  d               d            
+   d               d           
+    d  c            d          
+     d       u       d         
+      d       u       d        
+       d       u       d       
+        d       u       d      
+         d               d     
+          d               d    
+           d       b       d   
+            d               d  
+             d          c    d 
+            d               d  
+           d               d   
+          d               d    
+         d       u       d     
+        d       u       d      
+       d       u       d       
+      d       u       d        
+     d               d         
+    d               d          
+   d       b       d           
+  d               d            
+ d               d             
+d    hmmme      d              
+d   h{{{{n      d              
+d   pooo{n      d              
+d   j   gn      d              
+d        j      d              
+d               d              
+d   s       vv  d              
+d           vv  d              
+d  www          d              
+d  www          d              
+d               d              
+d           b   d              
+d    c          d              
+d               d              
+d     he        d              
+d    h{{e       d              
+d   h{{{f       d              
+d   p{{f        d              
+d   p{n         d              
+d   p{n        cd              
+d   p{n    u    d              
+d   p{f   u    bd              
+d   gf   u      d              
+d               d              
+ d             d               
+  d  s        d                
+   d         d                 
+    d       d                  
+     d     d                   
+     d     d                   
+     d  u  d                   
+     d  u  d                   
+     d  u  d                   
+     d  u  d                   
+     d  u  d                   
+     d     d                   
+     d     d                   
+     d     d                   
+     d  b  d                   
+     d     d                   
+     d     d                   
+     d     d                   
+    d       d                  
+   d      c  d                 
+  d           d                
+ d             d               
+d   uuu        d               
+d   uuu        d               
+d         hme  d               
+d        h{{{e d               
+d        g{{{f d               
+d         gof  d               
+d  hmme        d               
+d  p{{{e       d               
+d  g{{{f       d               
+d   gof        d               
+d           b  d               
+d yyy          d               
+d       t      d               
+d              d               
+dddddddddddddddd               
+13 5 180 
+10 12 180 
+3 15 45 
+10 25 135 
+20 29 180 
+8 35 45 
+2 42 0 
+2 45 45 
+5 50 0 
+15 71 135 
+14 83 225 
+16 83 315 
+15 95 45 
+5 97 0 
+18 102 45 
+21 104 90 
+14 114 180 
+19 114 0 
+4 117 45 
+25 120 180 
+14 128 135 
+22 137 180 
+12 146 45 
+13 154 225 
+14 163 180 
+15 167 180 
+7 173 45 
+19 180 135 
+24 182 180 
+11 192 45 
+12 206 135 
+5 207 45 
+15 214 180 
+15 216 135 
+8 233 90 
+10 238 225 
+12 251 135 
+14 253 135 

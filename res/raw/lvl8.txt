@@ -1,0 +1,120 @@
+27 100 300 13 6 14 97
+          pmmmmme          
+         h       e         
+        h         e        
+       h     y     e       
+      h     yyy     e      
+     h       y       e     
+    h                 e    
+   h                   e   
+  h                     e  
+ h                   c   e 
+l                         l
+r                         r
+r   s                     r
+r                         r
+r                         r
+r                x        r
+r         w     xyx     s r
+r        wyw     x        r
+r         w               r
+r                         r
+r                         r
+r                         r
+r  s                      r
+r         x               r
+r        xyx              r
+r         x               r
+r               s         r
+r                         r
+r  v                      r
+r vwv                     r
+r  v                      r
+r                       c r
+r                w        r
+r               wxw       r
+r       www b    w        r
+r       www               r
+r c                       r
+r              b        s r
+r s                       r
+r                         r
+r                         r
+r           hme           r
+r         hm   me         r
+r        h       e        r
+r    u  h         e       r
+r   uvu p         n uv    r
+r    u  p         n uu    r
+r       p         n vu    r
+r       p         n       r
+r       p         n b     r
+r b     p         n       r
+r       p         n       r
+r       p         n       r
+rs      p         n       r
+r       p         n   vu  r
+r       p         n   uu  r
+r b     p         n   uv  r
+r       p         n       r
+r       p         n       r
+r b     p         n   w   r
+r   vvv go       of  www  r
+r   vvv   p     n     w   r
+r         p     n         r
+r         gooooof  b      r
+r                         r
+r                         r
+r                         r
+r s        c              r
+r               s       vur
+r                       vur
+r                       vur
+r        v                r
+r                         r
+r                     w b r
+r                         r
+r                         r
+r  u                      r
+r uuu       c       uv    r
+r  u          s     uv    r
+r                   uv b  r
+r                         r
+r     uuu                 r
+r  b  uuu                 r
+r                         r
+r                         r
+rs                        r
+r              c          r
+r         s               r
+rb u                      r
+r                   uu    r
+r                   uu    r
+r                   uu b  r
+r     u                   r
+r                         r
+r                         r
+r  s   b l   t   l        r
+r        pe     hn    s   r
+r        p e   h n        r
+r        p n   p n        r
+gqqqqqqqqoooqqqoooqqqqqqqqf
+21 9 225 
+24 31 135 
+12 34 0 
+2 36 45 
+14 37 180 
+15 37 180 
+20 49 90 
+2 50 45 
+2 56 45 
+19 63 45 
+11 67 0 
+24 73 90 
+12 77 180 
+23 79 135 
+3 82 90 
+15 86 0 
+1 88 45 
+23 91 135 
+7 97 90 

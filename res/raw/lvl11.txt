@@ -1,0 +1,173 @@
+34 150 491 15 7 13 76
+             ddddddddd   ddddddddd
+             dddddddd  y  dddddddd
+             dddddd         dddddd
+             dddddd         dddddd
+             dddd     yy      dddd
+             dddd     yy      dddd
+             ddd               ddd
+             ddd               ddd
+             d                   d
+             d          s        d
+             d                   d
+             d     x          c  d
+             d   b xx            d
+             d      x            d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d      b   w    s   d
+             d         xx        d
+             d         w         d
+             d                   d
+             d                   d
+             d                   d
+             d s                 d
+             d       s           d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d      dddd         d
+             d      d  ddd       d
+             d   v  d    d       d
+             d   w  d    d   v   d
+             d  v   d    d   w   d
+             d  w   d    d    v  d
+             d      d    d    w  d
+             d      d    d       d
+             d      d    d       d
+             d      d    d       d
+             d      dd   d       d
+             d       ddddd       d
+             d                   d
+             d                   d
+             d             w   b d
+             d  b         wvw    d
+             d       c     w     d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d              b    d
+             d                   d
+             d    w              d
+             d   ww              d
+             d   w          b    d
+             d                   d
+             d                   d
+             d         v    b    d
+             d        vwv        d
+             d         v         d
+             d                   d
+             d                   d
+             d                v  d
+             d        s      vv  d
+             d c             v   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d                   d
+             d     u         u   d
+             d     vv       vv   d
+             d      u       u    d
+             d                   d
+             d                s  d
+             d         s         d
+             d                   d
+             d             b     d
+             d                   d
+             d   s               d
+             d         b         d
+             d                   d
+             d                   d
+             d                   d
+             d          d  c     d
+             d   u     d d       d
+             d   u    d   d      d
+             d   u   d     d     d
+             d   u   d      d   wd
+             d       d      d   vd
+             d       d      d   ud
+             d       d      d    d
+             d        d     d    d
+             d         d    d    d
+             d          dddd     d
+             d                   d
+             d  b                d
+             d    b              d
+             d                   d
+             d      u            d
+             d     uvu           d
+             d      u            d
+             d                   d
+             d               u   d
+             d               v b d
+             d               u   d
+             d               w   d
+             d                   d
+             d    s              d
+             d               c   d
+             d           b       d
+             d                   d
+             d               s   d
+             d                   d
+             d                   d
+             d           s       d
+            dd   u               d
+           d     u               d
+          d      u               d
+         d                       d
+       dd                        d
+      d                uuuu      d
+     d        b                  d
+    d                            d
+   d    b                        d
+  d                              d
+  d                              d
+ d             ddd               d
+ d            ddddd   s          d
+ d    uv     dddddd       u      d
+d     vu     dddddd       u  s   d
+d c          dddddd             d 
+d              dddd            d  
+d                             d   
+ d                           d    
+ dc                         d     
+ d                         d      
+  d                       d       
+   d                     d        
+    d                   d         
+     ddddddd  t  ddddddd          
+     d      d   d      d          
+     d       ddd       d          
+     ddddddddddddddddddd          
+30 11 180 
+17 12 45 
+20 18 0 
+31 47 180 
+16 48 90 
+21 49 135 
+28 56 180 
+28 60 180 
+28 63 180 
+15 70 0 
+27 83 130 
+23 86 180 
+27 90 320 
+16 102 0 
+18 103 0 
+31 110 160 
+29 115 180 
+25 116 165 
+14 128 0 
+8 130 0 
+2 137 0
+2 141 0
